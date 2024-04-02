@@ -1,0 +1,38 @@
+[
+  {
+    "imgSrc": "b4.png",
+    "title": "Crispy Duo Box",
+    "description": "Satisfying Meal Combo",
+    "price": "Rs 1499"
+  },
+  {
+    "imgSrc": "p3.png",
+    "title": "Family Festival 1",
+    "description": "Perfect for Sharing",
+    "price": "Rs 1799"
+  },
+  {
+    "imgSrc": "d1.png",
+    "title": "Crispy Stacker Karahi",
+    "description": "Spicy Chicken Delight",
+    "price": "Rs 1599"
+  },
+  {
+    "imgSrc": "r4.png",
+    "title": "Combo Rolls",
+    "description": "Tasty and Filling",
+    "price": "Rs 1299"
+  },
+  {
+    "imgSrc": "p5.png",
+    "title": "Family Festival 2",
+    "description": "Great for Large Gatherings",
+    "price": "Rs 1999"
+  },
+  {
+    "imgSrc": "d5.png",
+    "title": "Desi Taurk",
+    "description": "Traditional Flavors",
+    "price": "Rs 1399"
+  }
+]

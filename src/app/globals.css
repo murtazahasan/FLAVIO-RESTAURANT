@@ -1,8 +1,17 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:wght@500&display=swap"); */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
+
+/* :root {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+} */
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -30,4 +39,4 @@ body {
   .text-balance {
     text-wrap: balance;
   }
-}
+} */

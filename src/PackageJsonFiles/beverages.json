@@ -1,0 +1,39 @@
+[
+    {
+      "imgSrc": "w1.png",
+      "title": "Aloe vera juice",
+      "description": "Refreshing and Nourishing",
+      "price": "Rs 1499"
+    },
+    {
+      "imgSrc": "w2.png",
+      "title": "Oreo Milkshake",
+      "description": "Decadent and Creamy Indulgence",
+      "price": "Rs 1699"
+    },
+    {
+      "imgSrc": "w3.png",
+      "title": "Apple Cider",
+      "description": "Crisp and Refreshing Blend",
+      "price": "Rs 1399"
+    },
+    {
+      "imgSrc": "w4.png",
+      "title": "Pomegranate Juice",
+      "description": "Tangy and Antioxidant-rich",
+      "price": "Rs 1599"
+    },
+    {
+      "imgSrc": "w5.png",
+      "title": "Açaí Juice",
+      "description": "Superfood Infusion",
+      "price": "Rs 1799"
+    },
+    {
+      "imgSrc": "w6.png",
+      "title": "Mango Juice",
+      "description": "Sweet and Tropical Delight",
+      "price": "Rs 1499"
+    }
+  ]
+  
