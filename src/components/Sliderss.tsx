@@ -1,6 +1,4 @@
 "use client";
-
-// Import necessary modules and types
 import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -36,11 +34,11 @@ const MenuCard: React.FC<MenuCardProps> = ({ imageSrc, title, link }) => {
 const Sliderss: React.FC = () => {
   // Define menuItems array with type MenuCardProps[]
   const menuItems: MenuCardProps[] = [
-    { imageSrc: "/b6.png", title: "Item 1", link: "/" },
-    { imageSrc: "/p5.png", title: "Item 2", link: "/CONTACT" },
-    { imageSrc: "/r4.png", title: "Item 3", link: "/item3" },
-    { imageSrc: "/d1.png", title: "Item 4", link: "/item4" },
-    { imageSrc: "/w1.png", title: "Item 5", link: "/item5" },
+    { imageSrc: "/b6.png", title: "BURGERS", link: "/MENU" },
+    { imageSrc: "/p5.png", title: "PIZZA", link: "/MENU" },
+    { imageSrc: "/r4.png", title: "ROLLS", link: "/MENU" },
+    { imageSrc: "/d1.png", title: "DESI", link: "/MENU" },
+    { imageSrc: "/w1.png", title: "BEVERAGES", link: "/MENU" },
   ];
 
   // Define settings object

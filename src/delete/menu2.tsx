@@ -6,7 +6,7 @@ import pizzaData from "@/PackageJsonFiles/pizza.json";
 import rollsData from "@/PackageJsonFiles/rolls.json";
 import desiData from "@/PackageJsonFiles/desi.json";
 import beveragesData from "@/PackageJsonFiles/beverages.json";
-// orignal wala mei specificty solve
+// orignal wala mei specificty solve through inline css
 // bg-red-600 kardo instead of bg-green-600 
 
 

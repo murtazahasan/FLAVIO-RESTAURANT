@@ -126,7 +126,7 @@ function Page() {
                   <img
                     src={product.imgSrc}
                     alt={product.title}
-                    className="w-full h-32 object-cover rounded-t-lg"
+                    className="w-full h-40  object-cover rounded-t-lg"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold mb-2">
@@ -161,7 +161,7 @@ function Page() {
                   <img
                     src={product.imgSrc}
                     alt={product.title}
-                    className="w-full h-32 object-cover rounded-t-lg"
+                    className="w-full h-40  object-cover rounded-t-lg"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold mb-2">
@@ -196,7 +196,7 @@ function Page() {
                   <img
                     src={product.imgSrc}
                     alt={product.title}
-                    className="w-full h-32 object-cover rounded-t-lg"
+                    className="w-full h-40  object-cover rounded-t-lg"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold mb-2">
@@ -231,7 +231,7 @@ function Page() {
                   <img
                     src={product.imgSrc}
                     alt={product.title}
-                    className="w-full h-32 object-cover rounded-t-lg"
+                    className="w-full h-40 object-cover rounded-t-lg"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold mb-2">
@@ -266,7 +266,7 @@ function Page() {
                   <img
                     src={product.imgSrc}
                     alt={product.title}
-                    className="w-full h-32 object-cover rounded-t-lg"
+                    className="w-full h-40 object-cover rounded-t-lg"
                   />
                   <div className="p-4">
                     <h2 className="text-xl font-semibold mb-2">

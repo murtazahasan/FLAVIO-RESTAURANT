@@ -61,18 +61,15 @@ const Navbar = () => {
         <div className="text-sm  ml-3 lg:flex-grow">
           {MENU_LIST.map(({ text, href }) => (
             <Link key={text} href={href}>
-              <span className="block mt-4 text-xl  font-bold lg:inline-block lg:mt-0 text-black  hover:text-green-600 hover:bg-slate-100 mr-5">
+              <span className="block mt-4 text-xl pl-2 font-bold lg:inline-block lg:mt-0 text-black  hover:text-green-600 hover:bg-slate-100 mr-5">
                 {text}
               </span>
             </Link>
           ))}
         </div>
-        <div className="flex items-center">
-          <Link className="px-2" href="/">
-            <img src="28.png" alt="no" />
-          </Link>
+        <div className="flex py-2 items-center">
           <button className="inline-block text-sm px-4 mx-4 py-2 leading-none border rounded text-black border-white hover:border-transparent  hover:bg-teal-700  bg-white ">
-            <Link href="/sign-up">Sign up</Link>
+            <Link href="/SIGN-UP">Sign up</Link>
           </button>
         </div>
       </div>

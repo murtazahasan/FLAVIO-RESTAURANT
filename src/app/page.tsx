@@ -5,12 +5,9 @@ import TopDeals from "@/components/TopDeal";
 export default function Home() {
   return (
     <>
-      {/* bg-gray-100 */}
-      {/* <div className=""> </div> */}
-
       <Carousels />
       <Sliderss />
-      <TopDeals/>
+      <TopDeals />
     </>
   );
 }

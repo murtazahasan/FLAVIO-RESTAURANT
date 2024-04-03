@@ -3,6 +3,7 @@ import { Oswald } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Cartbox from "@/components/Cartbox";
 
 // const inter = Inter({ subsets: ["latin"] });
 
@@ -29,11 +30,20 @@ export default function RootLayout({
         <link rel="icon" href="/favi.png" sizes="any" />
       </head>
 
-      <body className={oswald.className}>
+      {/* <body className={oswald.className}>
         <Navbar />
+        <Cartbox/> 
         {children}
         <Footer />
+      </body> */}
+
+      <body className={`${oswald.className} relative`}>
+        <Navbar />
+        <Cartbox />
+        <main className="relative z-0">{children}</main>
+        <Footer />
       </body>
+
     </html>
   );
 }
