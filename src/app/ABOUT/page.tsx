@@ -19,7 +19,7 @@ function page() {
       </div>
 
       <section className="overflow-hidden p-8 mb-16  mt-16 bg-gray-50 sm:grid sm:grid-cols-2 sm:items-center">
-        <div className="p-8 md:p-12 lg:px-16 lg:py-24">
+        <div className=" sm:p-6 lg:px-16 lg:py-24">
           <div className="mx-auto max-w-xl  sm:text-left">
             <h2 className="text-4xl font-bold text-gray-900 md:text-5xl border-b-2 border-green-500 pb-2">
               OUR STORY
