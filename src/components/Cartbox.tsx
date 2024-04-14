@@ -15,7 +15,7 @@ function Cartbox() {
         </Link>
 
         {/* Cart count */}
-        <span className="bg-blue-500 text-white text-center w-4 h-4 text-xs absolute top-0 right-0 -mt-2 rounded-full flex items-center justify-center">
+        <span className=" bg-slate-800 text-white text-center w-4 h-4 text-xs absolute top-0 right-0 -mt-2 rounded-full flex items-center justify-center">
           {cartCount}
         </span>
       </div>
