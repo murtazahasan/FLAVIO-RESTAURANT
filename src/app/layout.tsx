@@ -4,8 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Cartbox from "@/components/Cartbox";
-
-// const inter = Inter({ subsets: ["latin"] });
+import ReduxProvider from "@/provider/redux/ReduxProvider";
 
 const oswald = Oswald({
   weight: "400",
@@ -25,25 +24,19 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <head>
-        <link rel="icon" href="/favi.png" sizes="any" />
-      </head>
+    <ReduxProvider>
+      <html lang="en">
+        <head>
+          <link rel="icon" href="/favi.png" sizes="any" />
+        </head>
 
-      {/* <body className={oswald.className}>
-        <Navbar />
-        <Cartbox/> 
-        {children}
-        <Footer />
-      </body> */}
-
-      <body className={`${oswald.className} relative`}>
-        <Navbar />
-        <Cartbox />
-        <main className="relative z-0">{children}</main>
-        <Footer />
-      </body>
-
-    </html>
+        <body className={`${oswald.className} relative`}>
+          <Navbar />
+          <Cartbox />
+          <main className="relative z-0">{children}</main>
+          <Footer />
+        </body>
+      </html>
+    </ReduxProvider>
   );
 }

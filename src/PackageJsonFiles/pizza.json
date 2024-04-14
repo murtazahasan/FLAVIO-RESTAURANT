@@ -1,39 +1,44 @@
 [
-    {
-      "imgSrc": "p1.png",
-      "title": "Pizza Napoletana",
-      "description": "Authentic Italian Flavor",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "p2.png",
-      "title": "Margherita Pizza",
-      "description": "Classic Tomato and Cheese",
-      "price": "Rs 1399"
-    },
-    {
-      "imgSrc": "p3.png",
-      "title": "Marinara Pizza",
-      "description": "Simplicity at its Best",
-      "price": "Rs 1599"
-    },
-    {
-      "imgSrc": "p4.png",
-      "title": "Neapolitan Pizza",
-      "description": "Traditional Italian Delight",
-      "price": "Rs 1699"
-    },
-    {
-      "imgSrc": "p5.png",
-      "title": "Buffalo Pizza",
-      "description": "Spicy and Savory",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "p6.png",
-      "title": "Papa Pie Pizza",
-      "description": "Family-sized Pizza Treat",
-      "price": "Rs 1799"
-    }
-  ]
-  
+  {
+    "id": 25,
+    "imgSrc": "p1.png",
+    "title": "Pizza Napoletana",
+    "description": "Authentic Italian Flavor",
+    "price": 1499
+  },
+  {
+    "id": 26,
+    "imgSrc": "p2.png",
+    "title": "Margherita Pizza",
+    "description": "Classic Tomato and Cheese",
+    "price": 1399
+  },
+  {
+    "id": 27,
+    "imgSrc": "p3.png",
+    "title": "Marinara Pizza",
+    "description": "Simplicity at its Best",
+    "price": 1599
+  },
+  {
+    "id": 28,
+    "imgSrc": "p4.png",
+    "title": "Neapolitan Pizza",
+    "description": "Traditional Italian Delight",
+    "price": 1699
+  },
+  {
+    "id": 29,
+    "imgSrc": "p5.png",
+    "title": "Buffalo Pizza",
+    "description": "Spicy and Savory",
+    "price": 1499
+  },
+  {
+    "id": 30,
+    "imgSrc": "p6.png",
+    "title": "Papa Pie Pizza",
+    "description": "Family-sized Pizza Treat",
+    "price": 1799
+  }
+]

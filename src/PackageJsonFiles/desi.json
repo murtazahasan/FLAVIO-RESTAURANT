@@ -1,39 +1,44 @@
 [
-    {
-      "imgSrc": "d1.png",
-      "title": "Crispy Stacker Karahi",
-      "description": "Sizzling and Spicy Delight",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "d2.png",
-      "title": "Daal Roti",
-      "description": "Comfort Food Classic",
-      "price": "Rs 1299"
-    },
-    {
-      "imgSrc": "d3.png",
-      "title": "Mutton Karahi",
-      "description": "Rich and Flavorful Dish",
-      "price": "Rs 1599"
-    },
-    {
-      "imgSrc": "d4.png",
-      "title": "Paya",
-      "description": "Savory and Tender Delicacy",
-      "price": "Rs 1799"
-    },
-    {
-      "imgSrc": "d5.png",
-      "title": "Desi Taurk",
-      "description": "Traditional and Tasty Recipe",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "d6.png",
-      "title": "Mutton Biryani",
-      "description": "Fragrant and Flavorful Rice Dish",
-      "price": "Rs 1699"
-    }
-  ]
-  
+  {
+    "id": 19,
+    "imgSrc": "d1.png",
+    "title": "Crispy Stacker Karahi",
+    "description": "Sizzling and Spicy Delight",
+    "price": 1499
+  },
+  {
+    "id": 20,
+    "imgSrc": "d2.png",
+    "title": "Daal Roti",
+    "description": "Comfort Food Classic",
+    "price": 1299
+  },
+  {
+    "id": 21,
+    "imgSrc": "d3.png",
+    "title": "Mutton Karahi",
+    "description": "Rich and Flavorful Dish",
+    "price": 1599
+  },
+  {
+    "id": 22,
+    "imgSrc": "d4.png",
+    "title": "Paya",
+    "description": "Savory and Tender Delicacy",
+    "price": 1799
+  },
+  {
+    "id": 23,
+    "imgSrc": "d5.png",
+    "title": "Desi Taurk",
+    "description": "Traditional and Tasty Recipe",
+    "price": 1499
+  },
+  {
+    "id": 24,
+    "imgSrc": "d6.png",
+    "title": "Mutton Biryani",
+    "description": "Fragrant and Flavorful Rice Dish",
+    "price": 1699
+  }
+]

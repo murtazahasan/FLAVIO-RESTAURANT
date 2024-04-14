@@ -1,39 +1,44 @@
 [
-    {
-      "imgSrc": "b1.png",
-      "title": "Crispy Duo Box",
-      "description": "Tasty Meal Combo",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "b2.png",
-      "title": "Krunch Burger",
-      "description": "Delicious Burger Delight",
-      "price": "Rs 1299"
-    },
-    {
-      "imgSrc": "b3.png",
-      "title": "Kentucky Burger Combo",
-      "description": "Satisfying Combo Meal",
-      "price": "Rs 1599"
-    },
-    {
-      "imgSrc": "b4.png",
-      "title": "Krunch Chicken Combo",
-      "description": "Crunchy Chicken Feast",
-      "price": "Rs 1399"
-    },
-    {
-      "imgSrc": "b5.png",
-      "title": "Mighty Zinger",
-      "description": "Flavorful Zinger Experience",
-      "price": "Rs 1699"
-    },
-    {
-      "imgSrc": "b6.png",
-      "title": "Xtreme Alp Burger",
-      "description": "Extreme Burger Adventure",
-      "price": "Rs 1499"
-    }
-  ]
-  
+  {
+    "id": 13,
+    "imgSrc": "b1.png",
+    "title": "Crispy Duo Box",
+    "description": "Tasty Meal Combo",
+    "price": 1499
+  },
+  {
+    "id": 14,
+    "imgSrc": "b2.png",
+    "title": "Krunch Burger",
+    "description": "Delicious Burger Delight",
+    "price": 1299
+  },
+  {
+    "id": 15,
+    "imgSrc": "b3.png",
+    "title": "Kentucky Burger Combo",
+    "description": "Satisfying Combo Meal",
+    "price": 1599
+  },
+  {
+    "id": 16,
+    "imgSrc": "b4.png",
+    "title": "Krunch Chicken Combo",
+    "description": "Crunchy Chicken Feast",
+    "price": 1399
+  },
+  {
+    "id": 17,
+    "imgSrc": "b5.png",
+    "title": "Mighty Zinger",
+    "description": "Flavorful Zinger Experience",
+    "price": 1699
+  },
+  {
+    "id": 18,
+    "imgSrc": "b6.png",
+    "title": "Xtreme Alp Burger",
+    "description": "Extreme Burger Adventure",
+    "price": 1499
+  }
+]

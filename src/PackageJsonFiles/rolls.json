@@ -1,39 +1,44 @@
 [
-    {
-      "imgSrc": "r1.png",
-      "title": "Gourmet Rolls",
-      "description": "Delicious Flavor Combinations",
-      "price": "Rs 1399"
-    },
-    {
-      "imgSrc": "r2.png",
-      "title": "Roll Fusion",
-      "description": "Creative and Tasty Twists",
-      "price": "Rs 1499"
-    },
-    {
-      "imgSrc": "r3.png",
-      "title": "Rolling Thunder",
-      "description": "Exciting and Bold Choices",
-      "price": "Rs 1599"
-    },
-    {
-      "imgSrc": "r4.png",
-      "title": "Zen Rolls",
-      "description": "Harmonious Flavors and Textures",
-      "price": "Rs 1699"
-    },
-    {
-      "imgSrc": "r5.png",
-      "title": "Deli Dough Rolls",
-      "description": "Freshly Made with Premium Ingredients",
-      "price": "Rs 1799"
-    },
-    {
-      "imgSrc": "r6.png",
-      "title": "Zingeratha",
-      "description": "Spicy and Flavorful Twist on Classic Rolls",
-      "price": "Rs 1499"
-    }
-  ]
-  
+  {
+    "id": 31,
+    "imgSrc": "r1.png",
+    "title": "Gourmet Rolls",
+    "description": "Delicious Flavor Combinations",
+    "price": 1399
+  },
+  {
+    "id": 32,
+    "imgSrc": "r2.png",
+    "title": "Roll Fusion",
+    "description": "Creative and Tasty Twists",
+    "price": 1499
+  },
+  {
+    "id": 33,
+    "imgSrc": "r3.png",
+    "title": "Rolling Thunder",
+    "description": "Exciting and Bold Choices",
+    "price": 1599
+  },
+  {
+    "id": 34,
+    "imgSrc": "r4.png",
+    "title": "Zen Rolls",
+    "description": "Harmonious Flavors and Textures",
+    "price": 1699
+  },
+  {
+    "id": 35,
+    "imgSrc": "r5.png",
+    "title": "Deli Dough Rolls",
+    "description": "Freshly Made with Premium Ingredients",
+    "price": 1799
+  },
+  {
+    "id": 36,
+    "imgSrc": "r6.png",
+    "title": "Zingeratha",
+    "description": "Spicy and Flavorful Twist on Classic Rolls",
+    "price": 1499
+  }
+]

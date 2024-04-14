@@ -1,38 +1,44 @@
 [
   {
+    "id": 1,
     "imgSrc": "w1.png",
     "title": "Aloe vera juice",
     "description": "Refreshing Natural Beverage",
-    "price": "Rs 300"
+    "price": 300
   },
   {
+    "id": 2,
     "imgSrc": "p2.png",
     "title": "Margherita Pizza",
     "description": "Classic Italian Delight",
-    "price": "Rs 1250"
+    "price": 1250
   },
   {
+    "id": 3,
     "imgSrc": "r1.png",
     "title": "Crispy Duo Box",
     "description": "Savory Combo Meal",
-    "price": "Rs 600"
+    "price": 600
   },
   {
+    "id": 4,
     "imgSrc": "b5.png",
     "title": "Zinger Stacker Combo",
     "description": "Satisfying Chicken Delight",
-    "price": "Rs 850"
+    "price": 850
   },
   {
+    "id": 5,
     "imgSrc": "d3.png",
     "title": "Paya",
     "description": "Hearty Traditional Dish",
-    "price": "Rs 1800"
+    "price": 1800
   },
   {
+    "id": 6,
     "imgSrc": "w2.png",
     "title": "oreo milkshake",
     "description": "Creamy Sweet Treat",
-    "price": "Rs 460"
+    "price": 460
   }
 ]
