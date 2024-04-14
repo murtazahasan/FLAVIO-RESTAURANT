@@ -38,7 +38,7 @@ const Navbar = () => {
           <img className="h-20   w-auto" src="loogo.png" alt="no" />
         </Link>
       </div>
-      <div className="block lg:hidden">
+      <div className="block lg:hidden pr-3">
         <button
           onClick={toggleMenu}
           className="flex items-center px-3 py-2 border rounded text-teal-lighter border-teal-light hover:text-green hover:border-green"
